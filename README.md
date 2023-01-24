@@ -23,3 +23,15 @@ The jar file is excluded to keep the repo's size within GitHub's constraint.
 2. open CMD and enter \target directory
 3. execute "java -jar onuw-0.0.1.jar"
 4. Navigate to localhost (alternatively use ipv4 addr from ipconfig)
+
+## Screenshots:
+![alt text](screenshots/home.png "Home")
+![alt text](screenshots/lobby.png "Lobby")
+![alt text](screenshots/settings.png "Settings")
+![alt text](screenshots/game1.png "game")
+![alt text](screenshots/game2.png "game")
+![alt text](screenshots/game3.png "game")
+![alt text](screenshots/game4.png "game")
+![alt text](screenshots/game5.png "game")
+![alt text](screenshots/game6.png "game")
+
